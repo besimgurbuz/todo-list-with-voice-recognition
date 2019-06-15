@@ -1,0 +1,50 @@
+body,
+html {
+  padding: 0;
+  margin: 0;
+}
+
+.todo-list {
+  font-family: monospace;
+  width: 100vw;
+  height: 100vh;
+  background: #2196f3;
+  display: flow-root;
+  padding: 10% 20%;
+}
+
+.todo-list h2 {
+  font-size: 30px;
+}
+
+.todo-list ul {
+  list-style-type: decimal;
+}
+
+.todo-list ul li {
+  font-size: 18px;
+}
+
+.todo-list .list-input {
+  border-radius: 5px;
+  height: 20px;
+  background: #f1f1f1;
+  font-size: 16px;
+  font-family: monospace;
+}
+
+.todo-list .todo-btn {
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #546e7a;
+  border-color: #8fa3ad;
+}
+
+.todo-list .voice-btn {
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #546e7a;
+  border-color: #8fa3ad;
+  font-size: 15px;
+}
+/*# sourceMappingURL=main.css.map */
