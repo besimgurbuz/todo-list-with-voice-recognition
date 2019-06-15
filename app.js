@@ -1,4 +1,4 @@
-// * List manipulation code
+// * List manipulation
 const todoList = document.querySelector(".list");
 const listInput = document.querySelector(".list-input");
 const addListBtn = document.querySelector(".todo-btn");
