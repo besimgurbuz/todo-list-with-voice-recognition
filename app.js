@@ -38,6 +38,6 @@ voiceBtn.addEventListener("click", function() {
   recognition.start();
 });
 
-bindToInput = (result) => {
+bindToInput = result => {
   listInput.value = result;
-}
+};

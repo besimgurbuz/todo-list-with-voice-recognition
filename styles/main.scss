@@ -3,12 +3,14 @@ html {
   padding: 0;
   margin: 0;
 }
+
 @mixin button {
   padding: 5px;
   border-radius: 10px;
   background-color: #546e7a;
   border-color: #8fa3ad;
 }
+
 .todo-list {
   font-family: monospace;
   width: 100vw;
@@ -46,4 +48,3 @@ html {
     font-size: 15px;
   }
 }
-
